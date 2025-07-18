@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.env/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings (optional)
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variable files (optional)
+.env
+
+# Allure report directories
+allure-results/
+a
