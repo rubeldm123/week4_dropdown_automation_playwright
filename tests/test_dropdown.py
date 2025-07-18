@@ -67,3 +67,6 @@ def test_select_by_label(page):
     page.wait_for_timeout(5000)
     
     print("✅ End Test: test_select_by_label")
+
+
+    
