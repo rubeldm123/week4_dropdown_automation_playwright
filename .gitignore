@@ -19,3 +19,4 @@ __pycache__/
 # Allure report directories
 allure-results/
 a
+__pycache__/
